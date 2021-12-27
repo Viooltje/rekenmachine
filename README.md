@@ -1,0 +1,1 @@
+Creating a calculator with vanilla JS as an assignment of the Odin Project
